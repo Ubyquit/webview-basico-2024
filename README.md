@@ -7,7 +7,7 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado:
 - Expo CLI (puedes instalarlo globalmente con `npm install -g expo-cli`)
 
 ```
-cd nombre-del-proyecto
+cd webview-basico-2024
 npm install
 npx expo start
 ```
